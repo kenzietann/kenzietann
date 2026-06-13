@@ -1,7 +1,7 @@
-[![Alt text](profile.jpg)](https://kenkzuha.dev)
-<h1 align="center">Hi, I'm Ken! 👋 </h1>
+
+<h1 align="center">Hi, I'm Kenzie Tandera! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kenztan_visitor_badge&left_color=1f6feb&right_color=black"  />
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,nestjs,angular,postgresql,nodejs,git,github,linux,java" alt="Skills and tools"/>
@@ -11,7 +11,6 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Projects -->
     <div style="flex: 1; max-width: 45%;">
         <h3>Featured Projects</h3>
         <ul>
@@ -19,13 +18,8 @@
                 <br/>Tech: Angular, NestJS, PostgreSQL, TypeORM, Supabase
                 <br/>Features: Magic link auth, multi-language support (JP/EN/ID), mobile responsive
             </li>
-            <li><strong>J検 Preparation</strong> - Studying for Japanese IT certifications
-                <br/>Focus: 基本スキル and プログラミングスキル
-            </li>
         </ul>
     </div>
-    
-    <!-- Right Column: Connect & Facts -->
     <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>Connect With Me</h3>
         <p>
@@ -39,7 +33,6 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40">
             </a>
         </p>
-        
         <h3>✨ My Interests</h3>
         <ul>
             <li>Bayern Munich fan (football enthusiast)</li>
