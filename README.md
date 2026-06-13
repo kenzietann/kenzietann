@@ -15,6 +15,10 @@
 
 <img width="100%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/kenztan/kenztan/main/github-metrics.svg">
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kenztan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenztan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+
 </td>
 <td valign="top" width="50%">
 
