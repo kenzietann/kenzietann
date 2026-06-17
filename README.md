@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Kenzie Tandera! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kenztan_visitor_badge&left_color=royalblue&right_color=black"  />
+<img align="center" src="https://wakatime.com/badge/user/16822a7c-87ef-4c1a-a7e7-8fec21e588b2.svg"/>
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
