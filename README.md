@@ -38,7 +38,7 @@
 
 I'm a passionate full-stack developer with a strong background in web development, currently studying at HAL専門学校 in Osaka, Japan. I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me watching football, gaming, or following the crypto markets.
 
-My journey in tech has led me to work with various technologies like Angular, NestJS, and PostgreSQL, building projects like Expenss, a full-stack expense tracker. I'm always eager to learn new things and share my knowledge with the developer community.
+My journey in tech has led me to work with various technologies and building projects like Expenss, a full-stack expense tracker.
 
 </td>
 </tr>
